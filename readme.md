@@ -78,6 +78,9 @@
 
 <br>
 
+## To use:
+1. Run fast api back-end: ```fastapi dev App/main.py```
+2. Navigate to ```localhost:8000```
 
 <div style="text-align: center;">
 
@@ -86,10 +89,11 @@
 </div>
 
 
-## To use:
-1. Run fast api back-end: ```fastapi dev App/main.py```
-2. Navigate to ```localhost:8000```
+<div style="text-align: center;">
 
+![](readme_files/res.png "index page")
+
+</div>
 
 
 <br>
