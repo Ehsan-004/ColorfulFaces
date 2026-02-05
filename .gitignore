@@ -1,0 +1,9 @@
+*/outputs/
+*/__pycache__/
+*.pyc
+*.pth
+*.csv
+App/static/inputs
+App/static/outputs
+*.pth
+Training/outputs
